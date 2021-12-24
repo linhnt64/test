@@ -7,7 +7,7 @@ const textConfig = {
     text6: "Ai thèm chứ ???",
     text7: "Thôi không trêu cô bé nữa, muốn nhận quà gì thì điền đi để ông già noel tặng",
     text8: "Nút nhận quà :3 (click điii)",
-    text9: "Muốn cái ôm từ người gửi cái link này thôiiiii",
+    text9: "Muốn cái ôm từ người gửi link này thôiiiii",
     text10: "Merry Christmas!!!",
     text11: "Đây là một món quà đặc biệt dành tặng một và chỉ một người đặc biệt, không biết người đặc biệt đó có vui và bất ngờ vì điều này hông ta... Định là noel đưa cô bé đi chơi, nhưng mà để cô bé làm con ngoan trò giỏi trước vậy, lo ôn thi tốt nha, thi tốt có thưởng, còn giờ thì vào ib nhập pass '121247' đi =)))))",
     text12: "Okii lunn <3",
